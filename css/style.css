@@ -1,3 +1,11 @@
 html {
     box-sizing: border-box;
 }
+
+body {
+    color: blanchedalmond;
+}
+
+header {
+    color: tomato;
+}
